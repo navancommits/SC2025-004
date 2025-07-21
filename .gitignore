@@ -86,3 +86,4 @@ bin/roslyn/
 /src/sxastarter-nextjs/.next-container
 /src/sxastarter/scjssconfig.json
 /src/performance-tests/data/nextjs
+/Sitecore.Patch.Support.SC2025-004/Sitecore.Patch.Support.SC2025-004/bin/Sitecore.Patch.Support.SC2025-004.dll
