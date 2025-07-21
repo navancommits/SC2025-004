@@ -41,6 +41,7 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+bin/roslyn/
 
 # temporary workaround
 /docker/data/cm/*
