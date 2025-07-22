@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Patch.Support.SC2025-004", "Sitecore.Patch.Support.SC2025-004\Sitecore.Patch.Support.SC2025-004.csproj", "{B29A9C6C-08A4-449A-BD05-6D166DB76A33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.SXA.10.4.Patch.Support.SC2025-004", "Sitecore.SXA.10.4.Patch.Support.SC2025-004\Sitecore.SXA.10.4.Patch.Support.SC2025-004.csproj", "{C9025FB8-2379-45AF-B096-D0D5C159FF62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B29A9C6C-08A4-449A-BD05-6D166DB76A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B29A9C6C-08A4-449A-BD05-6D166DB76A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B29A9C6C-08A4-449A-BD05-6D166DB76A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9025FB8-2379-45AF-B096-D0D5C159FF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9025FB8-2379-45AF-B096-D0D5C159FF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9025FB8-2379-45AF-B096-D0D5C159FF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9025FB8-2379-45AF-B096-D0D5C159FF62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
